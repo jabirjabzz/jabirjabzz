@@ -1,1 +1,1 @@
-Passionate about Machine Learning 🧠 and building practical applications 🛠️. Currently diving deep into fine-tuning Large Language Models 🧲. Learning through hands-on projects and continuous exploration 🔭.
+Passionate about Machine Learning 🧠 and building practical applications 🛠️. Currently diving deep into fine-tuning Large Language Models 🧲. Learning through hands-on projects and continuous exploration.
