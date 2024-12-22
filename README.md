@@ -1,1 +1,1 @@
-Self-taught Machine Learning enthusiast. Building my ML skills through personal projects, with a current focus on fine-tuning LLMs. Exploring the latest advancements in the field.
+Passionate about Machine Learning 🧠 and building practical applications 🛠️. Currently diving deep into fine-tuning Large Language Models 🧲. Learning through hands-on projects and continuous exploration 🔭.
