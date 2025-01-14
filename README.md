@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Enthusiast | Empowering Malayalam Speakers 🇮🇳
+# 🚀 ML | AI Enthusiast  Empowering Malayalam Speakers 🇮🇳
 
 I'm passionate about leveraging Machine Learning to build practical applications that make a real difference, particularly for the Malayalam-speaking community.
 
