@@ -13,10 +13,12 @@ I'm currently diving deep into the world of Large Language Models, focusing on f
 ## 🛠️ Skills & Interests
 
 *   Machine Learning (ML)
+*   Artificial Intelligent (AI)
 *   Natural Language Processing (NLP)
 *   Large Language Models (LLMs)
 *   Fine-tuning
-*   Malayalam Language Technology
+*   RAG
+*   Web Crawling
 *   Python
 
 ## 🌱 Learning & Growth
