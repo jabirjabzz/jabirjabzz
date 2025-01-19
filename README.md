@@ -22,5 +22,6 @@ I'm currently diving deep into the world of Large Language Models, focusing on f
 ## 🌱 Learning & Growth
 
 I believe in continuous learning through hands-on projects and exploration. I'm always eager to connect with fellow enthusiasts and contribute to the open-source community.
+also i need your support because i'm still learning!!
 
 Let's connect and build something amazing! ✨
