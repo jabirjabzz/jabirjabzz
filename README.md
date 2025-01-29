@@ -1,5 +1,3 @@
-I'll help you modify your GitHub bio to focus on AI Agents while maintaining its professional tone and structure. Here's the revised version:
-
 # 🚀 ML | AI Enthusiast  Empowering Tech Innovation 🇮🇳
 I'm passionate about leveraging Machine Learning to build practical applications that make a real difference, with a focus on developing intelligent autonomous systems.
 
