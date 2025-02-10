@@ -19,7 +19,7 @@ I'm currently diving deep into the world of AI Agents, focusing on:
 
 ## 🌱 Learning & Growth
 I believe in continuous learning through hands-on projects and exploration. I'm always eager to connect with fellow enthusiasts and contribute to the open-source community.
-Also, I'm still learning and appreciate any support from the community!
+Also, I'm still learning and appreciate any support from the community!!
 
 Let's connect and build something amazing! ✨
 
